@@ -11,7 +11,7 @@ bot = TelegramBot(
 bot.scraping_grupos()
 
 # ID del grupo de origen
-grupo_origen_id = -4680633557  # Aquí pones el chat ID del grupo de origen
+grupo_origen_id = -4679735173  # Aquí pones el chat ID del grupo de origen
 
 # Listado de IDs de los grupos destino (se pueden definir de forma automática o manual)
 grupos_destino_ids = [-4680633558, -4680633559]  # Aquí pones los IDs de los grupos de destino
